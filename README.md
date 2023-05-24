@@ -1,0 +1,2 @@
+# myskill
+latihan di myskill
